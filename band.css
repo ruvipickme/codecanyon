@@ -16,7 +16,7 @@ Website: bradhussey.ca
 }
 
 .navbar-collapse .text-muted {
-  color:whitesmoke;         
+color:white     
 }
 
 .about {
@@ -30,7 +30,7 @@ Website: bradhussey.ca
   padding-bottom: 6rem;
   margin-bottom: 0;
   background-color: #fff;
-  background-image: url('img/cover2.jpg');
+  background-image: url('img/scenic-view-of-mountain-1666021.jpg');
   background-repeat: no-repeat;
   background-position: bottom center;
   background-size: cover;
@@ -42,7 +42,7 @@ Website: bradhussey.ca
 
 .jumbotron .container {
   max-width: 40rem;
-  background: rgba(255,255,255,0.5);
+  background: rgba(25, 224, 58, 0.2);
   padding: 2rem;
   color: white;
 }
